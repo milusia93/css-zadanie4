@@ -1,0 +1,29 @@
+body{
+    background-color: #f5f5dd;
+
+}
+
+.kwadrat{   
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    
+}
+.czarny1{
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 1);
+
+}
+.czarny2{
+    background-color: rgba(0, 0, 0, 0.7);
+   
+}
+.czarny3{
+    background-color: rgba(0, 0, 0, 0.5);
+   
+}
+.czarny4{
+    background-color: rgba(0, 0, 0, 0.2);
+   
+}
